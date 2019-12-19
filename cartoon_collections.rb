@@ -35,5 +35,5 @@ def find_the_cheese(food, cheese_types)# code an argument here
     cheese_types.include?(type)
   end
   #if food the array below is here to help
-  
+
 end
