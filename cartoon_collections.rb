@@ -4,7 +4,7 @@ def roll_call_dwarves(dwarfnames)# code an argument here
   while i< dwarfnames.length
     puts "#{i+1}. #{dwarfnames[i]}"   #each_with_index do {|names, index| puts names}
   i+=1
-end Your code here
+end #Your code here
 end
 
 def summon_captain_planet# code an argument here
