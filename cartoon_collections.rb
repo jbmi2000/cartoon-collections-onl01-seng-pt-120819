@@ -1,4 +1,6 @@
-def roll_call_dwarves# code an argument here
+dwarfnames = []
+def roll_call_dwarves(dwarfnames)# code an argument here
+  dwarfnames.each_with_index.sort_by(index) do {|names| puts "#{names}"}
   # Your code here
 end
 
